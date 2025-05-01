@@ -1,7 +1,7 @@
 <h1>Technical Development Task – (Mid/Senior)</h1>
 You will have 48-hours to complete this technical task. Please complete as much of the task as possible within the time limit. <br><br>
 
-Warning: You may use AI tooling to help you develop more effectively, however, please be aware you may be questioned on code that has been submitted. So, ensure you understand everything that has been written.<br><br>
+<em>Warning: You may use AI tooling to help you develop more effectively, however, please be aware you may be questioned on code that has been submitted. So, ensure you understand everything that has been written.</em><br>
 
 <strong>Task:</strong><br>
 You have been given a list of mobile phones (phones.json), this includes information about the device such as its price, colour, hard drive size and brand etc. Using the designs & assets provided, create the list page and product page components as a React project (TS/JS).<br> 
